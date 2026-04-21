@@ -10,14 +10,14 @@
 <atom:link href="https://USERNAME.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Tue, 21 Apr 2026 18:27:33 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Apr 2026 18:31:38 GMT</lastBuildDate>
 <item>
   <title></title>
-  <dc:creator>Your Name</dc:creator>
+  <dc:creator>De&#39;Yona Willoughby</dc:creator>
   <link>https://USERNAME.github.io/posts/manuscript/</link>
   <description><![CDATA[ undefined ]]></description>
   <guid>https://USERNAME.github.io/posts/manuscript/</guid>
-  <pubDate>Tue, 21 Apr 2026 18:27:33 GMT</pubDate>
+  <pubDate>Tue, 21 Apr 2026 18:31:38 GMT</pubDate>
 </item>
 <item>
   <title>Quarto presentation</title>

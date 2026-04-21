@@ -1,6 +1,6 @@
 ---
 title: "The Female Reproductive System"
-author: "Your Name"
+author: "De'Yona Willoughby"
 format:
   revealjs:
     theme: simple
